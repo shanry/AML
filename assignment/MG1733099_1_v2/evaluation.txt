@@ -1,0 +1,7 @@
+baseline+knn(k=1):      0.166880 ± 0.012082
+myMetric+knn(k=1):      0.099145 ± 0.009440
+baseline+knn(k=3):      0.182479 ± 0.014185
+myMetric+knn(k=3):      0.110128 ± 0.009693
+baseline+knn(k=5):      0.200470 ± 0.013794
+myMetric+knn(k=5):      0.123376 ± 0.010082
+
